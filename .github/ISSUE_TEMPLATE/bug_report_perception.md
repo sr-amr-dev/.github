@@ -1,5 +1,5 @@
 ---
-name: 👁️Bug report-System
+name: 👁️Bug report-Perception
 about: Create bug reports related to the perception.
 title: "[Perception]"
 labels: bug
