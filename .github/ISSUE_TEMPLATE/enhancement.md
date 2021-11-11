@@ -2,7 +2,7 @@
 name: ✨Feature development
 about: Develop features for this project.
 title: ""
-labels: feature
+labels: enhancement
 assignees: ''
 ---
 
