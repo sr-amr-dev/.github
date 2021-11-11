@@ -2,7 +2,7 @@
 name: 💡Common issue
 about: Common issue that everyone needs to know.
 title: "[Common]"
-labels: bug
+labels: help wanted
 assignees: 'Geonhee-LEE,seungiloh5,sunghowoo,Jeong-Jin-Hyeon,Robot-hyunwoo,snmsung716,imdanhye,minhhud,toan70411hd91,dujeong,MC-Moon,OkDoky,tutor0613,vhi120,jedaichoi-nklesis,Jojaewon-NO1'
 
 ---
