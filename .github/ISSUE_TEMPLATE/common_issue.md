@@ -3,9 +3,10 @@ name: 💡Common issue
 about: Common issue that everyone needs to know.
 title: "[Common]"
 labels: help wanted
-assignees: 'Geonhee-LEE,seungiloh5,sunghowoo,Jeong-Jin-Hyeon,Robot-hyunwoo,snmsung716,imdanhye,minhhud,toan70411hd91,dujeong,MC-Moon,OkDoky,tutor0613,vhi120,Jojaewon-NO1'
-
+assignees: 'Geonhee-LEE,Jeong-Jin-Hyeon,minhhud,OkDoky,Jojaewon-NO1'
 ---
+
+*** *SW1팀 전체 인원에게 전달 요망* ***
 
 ## Context
 
