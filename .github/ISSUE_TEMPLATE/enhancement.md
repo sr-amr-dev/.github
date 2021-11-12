@@ -1,6 +1,6 @@
 ---
-name: ✨Feature development
-about: Develop features for this project.
+name: ✨Enhancement
+about: Feature development or enhancement
 title: ""
 labels: enhancement
 assignees: ''
