@@ -1,5 +1,5 @@
 ---
-name: ⚙️Bug report-Localization
+name: ⚙️Bug report-FAE
 about: Create bug reports related to the FAE.
 title: "[FAE]"
 labels: bug
