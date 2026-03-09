@@ -3,7 +3,7 @@ name: 👣Bug report-Localization
 about: Create bug reports related to the localization.
 title: "[Localization]"
 labels: bug
-assignees: 'Jeong-Jin-Hyeon,Robot-hyunwoo,snmsung716,imdanhye'
+assignees: 'Jeong-Jin-Hyeon, imdanhye, jaewan-Hwang'
 
 ---
 

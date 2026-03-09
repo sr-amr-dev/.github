@@ -1,9 +1,9 @@
 ---
-name: 👁️Bug report-Perception
-about: Create bug reports related to the perception.
-title: "[Perception]"
+name: ⚙️Bug report-Localization
+about: Create bug reports related to the FAE.
+title: "[FAE]"
 labels: bug
-assignees: 'shhong89, Sim-gyu-hun'
+assignees: 'sysconFAE'
 
 ---
 

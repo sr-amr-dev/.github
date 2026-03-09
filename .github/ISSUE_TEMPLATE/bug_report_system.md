@@ -3,7 +3,7 @@ name: 💻Bug report-System
 about: Create bug reports related to the system. 
 title: "[System]"
 labels: bug
-assignees: 'dujeong,MC-Moon,OkDoky,tutor0613,vhi120'
+assignees: 'LeeSeunghwan-square, jeong-in-hyuk, kimdhfj'
 
 ---
 

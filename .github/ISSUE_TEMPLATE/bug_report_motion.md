@@ -3,7 +3,7 @@ name: 🚙Bug report-Motion
 about: Create bug reports related to the motion planning & control. 
 title: "[Motion]"
 labels: bug
-assignees: 'Geonhee-LEE,seungiloh5,sunghowoo'
+assignees: 'shhong89, Donggyu-Lee02, Leeyounghun-syscon'
 
 ---
 

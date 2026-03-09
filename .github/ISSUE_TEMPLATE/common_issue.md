@@ -3,10 +3,10 @@ name: 💡Common issue
 about: Common issue that everyone needs to know.
 title: "[Common]"
 labels: help wanted
-assignees: 'Geonhee-LEE,Jeong-Jin-Hyeon,minhhud,OkDoky,Jojaewon-NO1'
+assignees: 'Jeong-Jin-Hyeon, imdanhye, shhong89, LeeSeunghwan-square'
 ---
 
-*** *SW1팀 전체 인원에게 전달 요망* ***
+*** *자율주행팀 전체 인원에게 전달 요망* ***
 
 ## Context
 
