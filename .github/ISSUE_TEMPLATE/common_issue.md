@@ -3,7 +3,7 @@ name: 💡Common issue
 about: Common issue that everyone needs to know.
 title: "[Common]"
 labels: help wanted
-assignees: 'Jeong-Jin-Hyeon, imdanhye, shhong89, LeeSeunghwan-square'
+assignees: 'Jeong-Jin-Hyeon, imdanhye, shhong89, LeeSeunghwan-square, sysconFAE'
 ---
 
 *** *자율주행팀 전체 인원에게 전달 요망* ***
